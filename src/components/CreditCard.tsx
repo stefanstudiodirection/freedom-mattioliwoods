@@ -22,7 +22,7 @@ export const CreditCard: React.FC<CreditCardProps> = ({
 			{/* Header */}
 			<div className="flex justify-between items-start relative z-10">
 				<div className="flex items-center gap-2">
-					{/* Mercer Logo */}
+					{/* Logo */}
 					<img
 						src="/mattioli-woods-light.svg"
 						alt="Logo"
